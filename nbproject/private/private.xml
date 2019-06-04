@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/cybuzzsc/app/Http/Controllers/AdminController.php</file>
+            <file>file:/var/www/html/cybuzzsc/resources/views/layouts/app.blade.php</file>
+            <file>file:/var/www/html/cybuzzsc/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/var/www/html/cybuzzsc/app/Providers/AuthServiceProvider.php</file>
+            <file>file:/var/www/html/cybuzzsc/resources/views/report.blade.php</file>
+            <file>file:/var/www/html/cybuzzsc/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/var/www/html/cybuzzsc/routes/api.php</file>
+            <file>file:/var/www/html/cybuzzsc/app/Http/Middleware/Admin.php</file>
+            <file>file:/var/www/html/cybuzzsc/routes/web.php</file>
+            <file>file:/var/www/html/cybuzzsc/.env</file>
+            <file>file:/var/www/html/cybuzzsc/app/Http/Middleware/User.php</file>
+            <file>file:/var/www/html/cybuzzsc/resources/views/home.blade.php</file>
+            <file>file:/var/www/html/cybuzzsc/app/Http/Controllers/HomeController.php</file>
+            <file>file:/var/www/html/cybuzzsc/app/User.php</file>
+            <file>file:/var/www/html/cybuzzsc/resources/views/marked.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
